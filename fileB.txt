@@ -1,2 +1,3 @@
 This is file B
 Update for fast-forward
+Feature work on three-way-branch
