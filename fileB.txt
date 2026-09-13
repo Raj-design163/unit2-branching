@@ -1,1 +1,2 @@
 This is file B
+Update for fast-forward
