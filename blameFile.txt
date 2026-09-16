@@ -1,0 +1,10 @@
+This is line 1 for the git blame test
+This is line 2 for the git blame test
+This is line 3 for the git blame test
+This is line 4 for the git blame test
+This is line 5 for the git blame test
+This is line 6 for the git blame test
+This is line 7 for the git blame test
+This is line 8 for the git blame test
+This is line 9 for the git blame test
+This is line 10 for the git blame test
